@@ -29,4 +29,6 @@ https://www.geeksforgeeks.org/how-to-rotate-x-axis-tick-label-text-in-matplotlib
 
 - Ask BCS helped with appending data in for loop to create box plot.
 
+- sym argument used to make outliers of boxplot different color.
+
 - st.linregress() function found in class slides 5.3
